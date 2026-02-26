@@ -1,0 +1,21 @@
+# Core
+crewai==0.130.0
+crewai-tools==0.47.1
+fastapi
+uvicorn
+
+# Database
+sqlalchemy
+
+# Queue
+celery
+redis
+
+# LLM & Tools
+python-dotenv
+langchain-community
+pypdf
+groq
+
+# Utilities
+python-multipart
